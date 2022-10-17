@@ -1,0 +1,8 @@
+﻿Aufgabe 2: Simulation des Wetrennens.
+
+Was fiel mir bei dem Auto auf?
+
+Aufgefallen ist es dass das Auto 150 fahren musste im Rennen, aber die Klasse Auto nur eine maximal geschwindigkeit von 140 km/h hat.
+Demnach konnte das Rennen nicht mit dem Auto simuliert werden.
+
+Auch ist mir nebenbei aufgefallen dass das Fahrrad, mit einem vorsprung von 4 stunden, in dem Rennen weiterkommt als der Krankenwagen.
